@@ -1,0 +1,58 @@
+﻿  Bank_System.cpp
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsUser.h(195,12): warning C4240: nonstandard extension used: access to 'clsUser::sLoginRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank_System.cpp')
+      C:\c++_OOP_Projects\Bank_System\Bank_System\clsUser.h(25,12):
+      see declaration of 'clsUser::sLoginRegister'
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsBankClient.h(24,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsBankClient.h(346,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsBankClient.h(353,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsBankClient.h(366,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsAddNewClientScreen.h(31,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsBankClient.h(326,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsBankClient.h(369,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\c++_OOP_Projects\Bank_System\Bank_System\clsUser.h(352,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank_System.vcxproj -> C:\c++_OOP_Projects\Bank_System\x64\Debug\Bank_System.exe
