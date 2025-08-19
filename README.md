@@ -1,66 +1,49 @@
-name: Simple Bank System (C++)
-description: >
-  A simple C++ console-based banking application for managing customers and accounts. 
-  Supports full CRUD operations, secure authentication, and role-based permissions.
+# 🏦 Simple Bank System (C++)
 
-features:
-  - Full Customer & Account Lifecycle Management:
-      - Add
-      - Update
-      - List
-      - Delete
-      - Search
-  - Secure Authentication:
-      - Login system with password protection
-  - Role-Based Permissions:
-      - Admin: Full access
-      - Customer: Limited access to their own accounts
-  - File Handling:
-      - Persistent storage using text/binary files
-  - Modular Programming & OOP:
-      - Organized, reusable, and maintainable code
+![C++](https://img.shields.io/badge/Language-C++-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-technologies_used:
-  language: C++
-  concepts:
-    - Object-Oriented Programming (OOP)
-    - Modular Programming
-    - File I/O (Text/Binary Files)
-    - Data Validation & Error Handling
+A lightweight **C++ console-based banking application** that manages customers and accounts.  
+Supports secure authentication, role-based permissions, and full CRUD operations with persistent file storage.
 
-installation:
-  steps:
-    - "Clone the repository: git clone https://github.com/yourusername/simple-bank-system.git"
-    - "Open the project in your preferred C++ IDE (e.g., Visual Studio, Code::Blocks)"
-    - "Compile and run the project"
+---
 
-usage:
-  steps:
-    - "Launch the application"
-    - "Log in using your credentials (Admin or Customer)"
-    - "Admins can manage all customers and accounts"
-    - "Customers can view and manage their own accounts"
-    - "Perform CRUD operations via the console menu interface"
+## 🔹 Features
 
-project_structure:
-  src:
-    - main.cpp
-    - Customer.cpp
-    - Account.cpp
-    - Auth.cpp
-  include:
-    - Customer.h
-    - Account.h
-    - Auth.h
-  data:
-    - customers.dat
-    - accounts.dat
+### Customer & Account Management
+- Add, update, list, delete, and search customers and accounts.
+- Full lifecycle management for all users.
 
-contributing:
-  - "Fork the repository"
-  - "Submit a pull request with improvements or bug fixes"
-  - "Add new features or enhance authentication security"
-  - "Refactor and optimize code"
-  - "Report issues"
+### Secure Authentication
+- Password-protected login system.
+- Role-based access control (Admin & Customer).
 
-license: MIT License
+### Role-Based Permissions
+- **Admin:** Full access to all customers and accounts.
+- **Customer:** Limited access to own accounts.
+
+### File Handling
+- Persistent storage using text or binary files.
+
+### Programming Paradigms
+- Organized and modular code using **OOP** principles.
+- Maintainable and reusable structure.
+
+---
+
+## 💻 Technologies Used
+
+- **Language:** C++
+- **Concepts:**
+  - Object-Oriented Programming (OOP)
+  - Modular Programming
+  - File Input/Output (Text & Binary)
+  - Data Validation & Error Handling
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/simple-bank-system.git
